@@ -1,0 +1,14 @@
+####################################################################
+#                        SQL Form Credits                          #
+####################################################################
+
+The following people/companies are responsible for SQL Form:
+
+
+Original Concept and Code ...........Martin Kamerbeek / Oqapi
+
+Contributing Developers..............Doug Bell / Plain Black
+                                     Diona Kidd / Knowmad
+                                     Graham Knop / Plain Black
+                                     William McKee / Knowmad
+
